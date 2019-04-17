@@ -1,0 +1,6 @@
+name: test
+channels:
+  - bioconda
+dependencies:
+  - bioconductor-ebimage
+
